@@ -1,0 +1,1 @@
+# Calculation-of-power-of-value-using-function.
